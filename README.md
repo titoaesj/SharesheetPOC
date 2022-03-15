@@ -7,7 +7,9 @@ Projeto feito com Jetpack Compose, utilizando `Interoperability` para compartilh
 
 ## :clapper: Exemplo
 <!-- You can add more screenshots here if you like -->
-<video src='https://github.com/titoaesj/SharesheetPOC/blob/master/info/sharesheetPOC.gif' width=260/> 
+<div align="center">
+    <img src="https://github.com/titoaesj/SharesheetPOC/blob/master/info/sharesheetPOC.gif" alt="demo app" width="260" />
+</div>
 
 ## License
 ```
